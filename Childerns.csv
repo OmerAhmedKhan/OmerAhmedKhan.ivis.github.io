@@ -1,0 +1,596 @@
+Country,Year,Question,Variable,Imp,NotAns
+Azerbaijan,1995-1999,Children qualities: Good manners,V19,52.8,47.2
+Argentina,1995-1999,Children qualities: Good manners,V19,74.2,25.8
+Australia,1995-1999,Children qualities: Good manners,V19,80.4,19.6
+Bangladesh,1995-1999,Children qualities: Good manners,V19,95.4,4.6
+Brazil,1995-1999,Children qualities: Good manners,V19,52.4,47.6
+Chile,1995-1999,Children qualities: Good manners,V19,81.8,18.2
+China,1995-1999,Children qualities: Good manners,V19,66.8,33.2
+Taiwan,1995-1999,Children qualities: Good manners,V19,69.6,30.4
+Croatia,1995-1999,Children qualities: Good manners,V19,64.2,35.8
+Finland,1995-1999,Children qualities: Good manners,V19,82,18
+Hungary,1995-1999,Children qualities: Good manners,V19,82.8,17.2
+India,1995-1999,Children qualities: Good manners,V19,81.6,18.4
+Japan,1995-1999,Children qualities: Good manners,V19,81.7,18.3
+South Korea,1995-1999,Children qualities: Good manners,V19,90.9,9.1
+Mexico,1995-1999,Children qualities: Good manners,V19,75.8,24.2
+Moldova,1995-1999,Children qualities: Good manners,V19,63.3,36.7
+New Zealand,1995-1999,Children qualities: Good manners,V19,76.6,23.4
+Nigeria,1995-1999,Children qualities: Good manners,V19,93.9,6.1
+Norway,1995-1999,Children qualities: Good manners,V19,74.8,25.2
+Pakistan,1995-1999,Children qualities: Good manners,V19,57.3,42.7
+Peru,1995-1999,Children qualities: Good manners,V19,88,12
+Philippines,1995-1999,Children qualities: Good manners,V19,80.4,19.6
+Poland,1995-1999,Children qualities: Good manners,V19,63.4,36.6
+South Africa,1995-1999,Children qualities: Good manners,V19,86.5,13.5
+Spain,1995-1999,Children qualities: Good manners,V19,84.5,15.5
+Sweden,1995-1999,Children qualities: Good manners,V19,67.2,32.8
+Switzerland,1995-1999,Children qualities: Good manners,V19,66.3,33.7
+Turkey,1995-1999,Children qualities: Good manners,V19,89.8,10.2
+Ukraine,1995-1999,Children qualities: Good manners,V19,48.6,51.4
+United States,1995-1999,Children qualities: Good manners,V19,72.8,27.2
+Azerbaijan,1995-1999,Children qualities: Hard work,V13,77.1,22.9
+Argentina,1995-1999,Children qualities: Hard work,V13,55.5,44.5
+Australia,1995-1999,Children qualities: Hard work,V13,35.9,64.1
+Bangladesh,1995-1999,Children qualities: Hard work,V13,8.1,91.9
+Brazil,1995-1999,Children qualities: Hard work,V13,47.4,52.6
+Chile,1995-1999,Children qualities: Hard work,V13,16.8,83.2
+China,1995-1999,Children qualities: Hard work,V13,72.7,27.3
+Taiwan,1995-1999,Children qualities: Hard work,V13,41.7,58.3
+Croatia,1995-1999,Children qualities: Hard work,V13,63.7,36.3
+Finland,1995-1999,Children qualities: Hard work,V13,14.7,85.3
+Hungary,1995-1999,Children qualities: Hard work,V13,33.7,66.3
+India,1995-1999,Children qualities: Hard work,V13,71.6,28.4
+Japan,1995-1999,Children qualities: Hard work,V13,24.4,75.6
+South Korea,1995-1999,Children qualities: Hard work,V13,62.2,37.8
+Mexico,1995-1999,Children qualities: Hard work,V13,33.1,66.9
+Moldova,1995-1999,Children qualities: Hard work,V13,87.3,12.7
+New Zealand,1995-1999,Children qualities: Hard work,V13,37.1,62.9
+Nigeria,1995-1999,Children qualities: Hard work,V13,82.8,17.2
+Norway,1995-1999,Children qualities: Hard work,V13,10.7,89.3
+Pakistan,1995-1999,Children qualities: Hard work,V13,53,47
+Peru,1995-1999,Children qualities: Hard work,V13,62.7,37.3
+Philippines,1995-1999,Children qualities: Hard work,V13,57.8,42.2
+Poland,1995-1999,Children qualities: Hard work,V13,16,84
+South Africa,1995-1999,Children qualities: Hard work,V13,58.5,41.5
+Spain,1995-1999,Children qualities: Hard work,V13,64.4,35.6
+Sweden,1995-1999,Children qualities: Hard work,V13,6.6,93.4
+Switzerland,1995-1999,Children qualities: Hard work,V13,39.6,60.4
+Turkey,1995-1999,Children qualities: Hard work,V13,69.3,30.7
+Ukraine,1995-1999,Children qualities: Hard work,V13,83.3,16.7
+United States,1995-1999,Children qualities: Hard work,V13,52.5,47.5
+Azerbaijan,1995-1999,Children qualities: Imagination,,13.8,86.2
+Argentina,1995-1999,Children qualities: Imagination,,25.8,74.2
+Australia,1995-1999,Children qualities: Imagination,,26.4,73.6
+Bangladesh,1995-1999,Children qualities: Imagination,,14.2,85.8
+Brazil,1995-1999,Children qualities: Imagination,,7.7,92.3
+Chile,1995-1999,Children qualities: Imagination,,24.3,75.7
+China,1995-1999,Children qualities: Imagination,,22.1,77.9
+Taiwan,1995-1999,Children qualities: Imagination,,15.1,84.9
+Croatia,1995-1999,Children qualities: Imagination,,16.7,83.3
+Finland,1995-1999,Children qualities: Imagination,,23.5,76.5
+Hungary,1995-1999,Children qualities: Imagination,,12.8,87.2
+India,1995-1999,Children qualities: Imagination,,10.8,89.2
+Japan,1995-1999,Children qualities: Imagination,,25.9,74.1
+South Korea,1995-1999,Children qualities: Imagination,,7.8,92.2
+Mexico,1995-1999,Children qualities: Imagination,,27.7,72.3
+Moldova,1995-1999,Children qualities: Imagination,,12.9,87.1
+New Zealand,1995-1999,Children qualities: Imagination,,27.8,72.2
+Nigeria,1995-1999,Children qualities: Imagination,,6.1,93.9
+Norway,1995-1999,Children qualities: Imagination,,36.6,63.4
+Pakistan,1995-1999,Children qualities: Imagination,,7,93
+Peru,1995-1999,Children qualities: Imagination,,18.6,81.4
+Philippines,1995-1999,Children qualities: Imagination,,9.7,90.3
+Poland,1995-1999,Children qualities: Imagination,,11,89
+South Africa,1995-1999,Children qualities: Imagination,,10.6,89.4
+Spain,1995-1999,Children qualities: Imagination,,21.7,78.3
+Sweden,1995-1999,Children qualities: Imagination,,39.1,60.9
+Switzerland,1995-1999,Children qualities: Imagination,,23.2,76.8
+Turkey,1995-1999,Children qualities: Imagination,,22.1,77.9
+Ukraine,1995-1999,Children qualities: Imagination,,11.2,88.8
+United States,1995-1999,Children qualities: Imagination,,26.5,73.5
+Azerbaijan,1995-1999,Children qualities: Independence,,59.7,40.3
+Argentina,1995-1999,Children qualities: Independence,,42.4,57.6
+Australia,1995-1999,Children qualities: Independence,,52.9,47.1
+Bangladesh,1995-1999,Children qualities: Independence,,57,43
+Brazil,1995-1999,Children qualities: Independence,,19.8,80.2
+Chile,1995-1999,Children qualities: Independence,,33.9,66.1
+China,1995-1999,Children qualities: Independence,,50.1,49.9
+Taiwan,1995-1999,Children qualities: Independence,,66.2,33.8
+Croatia,1995-1999,Children qualities: Independence,,63.5,36.5
+Finland,1995-1999,Children qualities: Independence,,56,44
+Hungary,1995-1999,Children qualities: Independence,,44.2,55.8
+India,1995-1999,Children qualities: Independence,,37.4,62.6
+Japan,1995-1999,Children qualities: Independence,,60.4,39.6
+South Korea,1995-1999,Children qualities: Independence,,59.7,40.3
+Mexico,1995-1999,Children qualities: Independence,,39.8,60.2
+Moldova,1995-1999,Children qualities: Independence,,35.9,64.1
+New Zealand,1995-1999,Children qualities: Independence,,53.7,46.3
+Nigeria,1995-1999,Children qualities: Independence,,20.2,79.8
+Norway,1995-1999,Children qualities: Independence,,88.6,11.4
+Pakistan,1995-1999,Children qualities: Independence,,19.8,80.2
+Peru,1995-1999,Children qualities: Independence,,20.8,79.2
+Philippines,1995-1999,Children qualities: Independence,,51.1,48.9
+Poland,1995-1999,Children qualities: Independence,,32.2,67.8
+South Africa,1995-1999,Children qualities: Independence,,31.2,68.8
+Spain,1995-1999,Children qualities: Independence,,24.8,75.2
+Sweden,1995-1999,Children qualities: Independence,,60.7,39.3
+Switzerland,1995-1999,Children qualities: Independence,,42.4,57.6
+Turkey,1995-1999,Children qualities: Independence,,16.3,83.7
+Ukraine,1995-1999,Children qualities: Independence,,33.7,66.3
+United States,1995-1999,Children qualities: Independence,,45.2,54.8
+Azerbaijan,1995-1999,Children qualities: Obedience,,24.8,75.2
+Argentina,1995-1999,Children qualities: Obedience,,31.6,68.4
+Australia,1995-1999,Children qualities: Obedience,,29.2,70.8
+Bangladesh,1995-1999,Children qualities: Obedience,,19,81
+Brazil,1995-1999,Children qualities: Obedience,,59.1,40.9
+Chile,1995-1999,Children qualities: Obedience,,45.8,54.2
+China,1995-1999,Children qualities: Obedience,,29.3,70.7
+Taiwan,1995-1999,Children qualities: Obedience,,33.2,66.8
+Croatia,1995-1999,Children qualities: Obedience,,21.3,78.7
+Finland,1995-1999,Children qualities: Obedience,,28.1,71.9
+Hungary,1995-1999,Children qualities: Obedience,,30.8,69.2
+India,1995-1999,Children qualities: Obedience,,69.9,30.1
+Japan,1995-1999,Children qualities: Obedience,,6.3,93.7
+South Korea,1995-1999,Children qualities: Obedience,,14.4,85.6
+Mexico,1995-1999,Children qualities: Obedience,,49.9,50.1
+Moldova,1995-1999,Children qualities: Obedience,,39.4,60.6
+New Zealand,1995-1999,Children qualities: Obedience,,21.9,78.1
+Nigeria,1995-1999,Children qualities: Obedience,,71.4,28.6
+Norway,1995-1999,Children qualities: Obedience,,25.9,74.1
+Pakistan,1995-1999,Children qualities: Obedience,,32,68
+Peru,1995-1999,Children qualities: Obedience,,50.1,49.9
+Philippines,1995-1999,Children qualities: Obedience,,44.2,55.8
+Poland,1995-1999,Children qualities: Obedience,,48.7,51.3
+South Africa,1995-1999,Children qualities: Obedience,,49.9,50.1
+Spain,1995-1999,Children qualities: Obedience,,43.8,56.2
+Sweden,1995-1999,Children qualities: Obedience,,15.9,84.1
+Switzerland,1995-1999,Children qualities: Obedience,,24,76
+Turkey,1995-1999,Children qualities: Obedience,,35.7,64.3
+Ukraine,1995-1999,Children qualities: Obedience,,38.2,61.8
+United States,1995-1999,Children qualities: Obedience,,37.6,62.4
+Azerbaijan,1995-1999,Children qualities: Tolerance and respect for other people,,59.1,40.9
+Argentina,1995-1999,Children qualities: Tolerance and respect for other people,,73.6,26.4
+Australia,1995-1999,Children qualities: Tolerance and respect for other people,,80.7,19.3
+Bangladesh,1995-1999,Children qualities: Tolerance and respect for other people,,69.2,30.8
+Brazil,1995-1999,Children qualities: Tolerance and respect for other people,,59.7,40.3
+Chile,1995-1999,Children qualities: Tolerance and respect for other people,,61.1,38.9
+China,1995-1999,Children qualities: Tolerance and respect for other people,,43,57
+Taiwan,1995-1999,Children qualities: Tolerance and respect for other people,,59.2,40.8
+Croatia,1995-1999,Children qualities: Tolerance and respect for other people,,64.3,35.7
+Finland,1995-1999,Children qualities: Tolerance and respect for other people,,82.5,17.5
+Hungary,1995-1999,Children qualities: Tolerance and respect for other people,,63.5,36.5
+India,1995-1999,Children qualities: Tolerance and respect for other people,,51.6,48.4
+Japan,1995-1999,Children qualities: Tolerance and respect for other people,,58.3,41.7
+South Korea,1995-1999,Children qualities: Tolerance and respect for other people,,46.8,53.2
+Mexico,1995-1999,Children qualities: Tolerance and respect for other people,,57.3,42.7
+Moldova,1995-1999,Children qualities: Tolerance and respect for other people,,63.4,36.6
+New Zealand,1995-1999,Children qualities: Tolerance and respect for other people,,77.9,22.1
+Nigeria,1995-1999,Children qualities: Tolerance and respect for other people,,63.5,36.5
+Norway,1995-1999,Children qualities: Tolerance and respect for other people,,65.9,34.1
+Pakistan,1995-1999,Children qualities: Tolerance and respect for other people,,55.3,44.7
+Peru,1995-1999,Children qualities: Tolerance and respect for other people,,63,37
+Philippines,1995-1999,Children qualities: Tolerance and respect for other people,,47.6,52.4
+Poland,1995-1999,Children qualities: Tolerance and respect for other people,,81.5,18.5
+South Africa,1995-1999,Children qualities: Tolerance and respect for other people,,70,30
+Spain,1995-1999,Children qualities: Tolerance and respect for other people,,75.6,24.4
+Sweden,1995-1999,Children qualities: Tolerance and respect for other people,,90.4,9.6
+Switzerland,1995-1999,Children qualities: Tolerance and respect for other people,,79.3,20.7
+Turkey,1995-1999,Children qualities: Tolerance and respect for other people,,58.6,41.4
+Ukraine,1995-1999,Children qualities: Tolerance and respect for other people,,61.2,38.8
+United States,1995-1999,Children qualities: Tolerance and respect for other people,,75,25
+Azerbaijan,1995-1999,Children qualities: Religious faith,,18.6,81.4
+Argentina,1995-1999,Children qualities: Religious faith,,34.7,65.3
+Australia,1995-1999,Children qualities: Religious faith,,21.4,78.6
+Bangladesh,1995-1999,Children qualities: Religious faith,,77.7,22.3
+Brazil,1995-1999,Children qualities: Religious faith,,56.7,43.3
+Chile,1995-1999,Children qualities: Religious faith,,45.6,54.4
+China,1995-1999,Children qualities: Religious faith,,3.3,96.7
+Taiwan,1995-1999,Children qualities: Religious faith,,8.6,91.4
+Croatia,1995-1999,Children qualities: Religious faith,,19.1,80.9
+Finland,1995-1999,Children qualities: Religious faith,,11.2,88.8
+Hungary,1995-1999,Children qualities: Religious faith,,17.5,82.5
+India,1995-1999,Children qualities: Religious faith,,36,64
+Japan,1995-1999,Children qualities: Religious faith,,5.8,94.2
+South Korea,1995-1999,Children qualities: Religious faith,,16.6,83.4
+Mexico,1995-1999,Children qualities: Religious faith,,43.6,56.4
+Moldova,1995-1999,Children qualities: Religious faith,,28,72
+New Zealand,1995-1999,Children qualities: Religious faith,,15.7,84.3
+Nigeria,1995-1999,Children qualities: Religious faith,,72,28
+Norway,1995-1999,Children qualities: Religious faith,,11.7,88.3
+Pakistan,1995-1999,Children qualities: Religious faith,,80.6,19.4
+Peru,1995-1999,Children qualities: Religious faith,,51.6,48.4
+Philippines,1995-1999,Children qualities: Religious faith,,62.7,37.3
+Poland,1995-1999,Children qualities: Religious faith,,61.1,38.9
+South Africa,1995-1999,Children qualities: Religious faith,,21.8,78.2
+Spain,1995-1999,Children qualities: Religious faith,,4.8,95.2
+Sweden,1995-1999,Children qualities: Religious faith,,20.5,79.5
+Switzerland,1995-1999,Children qualities: Religious faith,,50.9,49.1
+Turkey,1995-1999,Children qualities: Religious faith,,20.4,79.6
+Ukraine,1995-1999,Children qualities: Religious faith,,53.9,46.1
+United States,1995-1999,Children qualities: Religious faith,,78,22
+Azerbaijan,1995-1999,Children qualities: Responsibility,,65.5,34.5
+Argentina,1995-1999,Children qualities: Responsibility,,79.6,20.4
+Australia,1995-1999,Children qualities: Responsibility,,66.1,33.9
+Bangladesh,1995-1999,Children qualities: Responsibility,,39.4,60.6
+Brazil,1995-1999,Children qualities: Responsibility,,64.7,35.3
+Chile,1995-1999,Children qualities: Responsibility,,73.8,26.2
+China,1995-1999,Children qualities: Responsibility,,34.5,65.5
+Taiwan,1995-1999,Children qualities: Responsibility,,81,19
+Croatia,1995-1999,Children qualities: Responsibility,,67.2,32.8
+Finland,1995-1999,Children qualities: Responsibility,,87,13
+Hungary,1995-1999,Children qualities: Responsibility,,85.1,14.9
+India,1995-1999,Children qualities: Responsibility,,48.2,51.8
+Japan,1995-1999,Children qualities: Responsibility,,87.6,12.4
+South Korea,1995-1999,Children qualities: Responsibility,,88.1,11.9
+Mexico,1995-1999,Children qualities: Responsibility,,66.8,33.2
+Moldova,1995-1999,Children qualities: Responsibility,,66.5,33.5
+New Zealand,1995-1999,Children qualities: Responsibility,,58.9,41.1
+Nigeria,1995-1999,Children qualities: Responsibility,,27.5,72.5
+Norway,1995-1999,Children qualities: Responsibility,,92.3,7.7
+Pakistan,1995-1999,Children qualities: Responsibility,,71.3,28.7
+Peru,1995-1999,Children qualities: Responsibility,,77.5,22.5
+Philippines,1995-1999,Children qualities: Responsibility,,57.9,42.1
+Poland,1995-1999,Children qualities: Responsibility,,78,22
+South Africa,1995-1999,Children qualities: Responsibility,,48.8,51.2
+Spain,1995-1999,Children qualities: Responsibility,,69.8,30.2
+Sweden,1995-1999,Children qualities: Responsibility,,88.4,11.6
+Switzerland,1995-1999,Children qualities: Responsibility,,80.3,19.7
+Turkey,1995-1999,Children qualities: Responsibility,,59.3,40.7
+Ukraine,1995-1999,Children qualities: Responsibility,,65.8,34.2
+United States,1995-1999,Children qualities: Responsibility,,69,31
+Argentina,2005-2009,Children qualities: Independence,,44,56
+Australia,2005-2009,Children qualities: Independence,,63.6,36.4
+Brazil,2005-2009,Children qualities: Independence,,28.5,71.5
+Chile,2005-2009,Children qualities: Independence,,40.3,59.7
+China,2005-2009,Children qualities: Independence,,69.8,30.2
+Taiwan,2005-2009,Children qualities: Independence,,80.3,19.7
+Finland,2005-2009,Children qualities: Independence,,69.3,30.7
+Germany,2005-2009,Children qualities: Independence,,77.6,22.4
+Hungary,2005-2009,Children qualities: Independence,,81.4,18.6
+India,2005-2009,Children qualities: Independence,,66.9,33.1
+Iran,2005-2009,Children qualities: Independence,,63.1,36.9
+Iraq,2005-2009,Children qualities: Independence,,28.9,71.1
+Italy,2005-2009,Children qualities: Independence,,58.5,41.5
+Japan,2005-2009,Children qualities: Independence,,80,20
+Jordan,2005-2009,Children qualities: Independence,,42.8,57.2
+South Korea,2005-2009,Children qualities: Independence,,67.6,32.4
+Mexico,2005-2009,Children qualities: Independence,,40.8,59.2
+Moldova,2005-2009,Children qualities: Independence,,44.9,55.1
+New Zealand,2005-2009,Children qualities: Independence,,53.2,46.8
+Norway,2005-2009,Children qualities: Independence,,90,10
+Peru,2005-2009,Children qualities: Independence,,27.5,72.5
+Poland,2005-2009,Children qualities: Independence,,41.1,58.9
+South Africa,2005-2009,Children qualities: Independence,,58.8,41.2
+Spain,2005-2009,Children qualities: Independence,,31.4,68.6
+Sweden,2005-2009,Children qualities: Independence,,77.4,22.6
+Switzerland,2005-2009,Children qualities: Independence,,77.7,22.3
+Turkey,2005-2009,Children qualities: Independence,,39.2,60.8
+Ukraine,2005-2009,Children qualities: Independence,,28.1,71.9
+Egypt,2005-2009,Children qualities: Independence,,26.6,73.4
+United States,2005-2009,Children qualities: Independence,,53.8,46.2
+Argentina,2005-2009,Children qualities: Obedience,,44.6,55.4
+Australia,2005-2009,Children qualities: Obedience,,38.8,61.2
+Brazil,2005-2009,Children qualities: Obedience,,56.6,43.4
+Chile,2005-2009,Children qualities: Obedience,,51.9,48.1
+China,2005-2009,Children qualities: Obedience,,13.8,86.2
+Taiwan,2005-2009,Children qualities: Obedience,,16.5,83.5
+Finland,2005-2009,Children qualities: Obedience,,32.7,67.3
+Germany,2005-2009,Children qualities: Obedience,,15.8,84.2
+Hungary,2005-2009,Children qualities: Obedience,,30.8,69.2
+India,2005-2009,Children qualities: Obedience,,55.9,44.1
+Iran,2005-2009,Children qualities: Obedience,,32.4,67.6
+Iraq,2005-2009,Children qualities: Obedience,,73.3,26.7
+Italy,2005-2009,Children qualities: Obedience,,26.1,73.9
+Japan,2005-2009,Children qualities: Obedience,,5.1,94.9
+Jordan,2005-2009,Children qualities: Obedience,,64.9,35.1
+South Korea,2005-2009,Children qualities: Obedience,,13.5,86.5
+Mexico,2005-2009,Children qualities: Obedience,,58.3,41.7
+Moldova,2005-2009,Children qualities: Obedience,,16.8,83.2
+New Zealand,2005-2009,Children qualities: Obedience,,24.4,75.6
+Norway,2005-2009,Children qualities: Obedience,,28.7,71.3
+Peru,2005-2009,Children qualities: Obedience,,53.9,46.1
+Poland,2005-2009,Children qualities: Obedience,,48.8,51.2
+South Africa,2005-2009,Children qualities: Obedience,,46.8,53.2
+Spain,2005-2009,Children qualities: Obedience,,36.9,63.1
+Sweden,2005-2009,Children qualities: Obedience,,15.6,84.4
+Switzerland,2005-2009,Children qualities: Obedience,,18.4,81.6
+Turkey,2005-2009,Children qualities: Obedience,,45.8,54.2
+Ukraine,2005-2009,Children qualities: Obedience,,49.9,50.1
+Egypt,2005-2009,Children qualities: Obedience,,67.6,32.4
+United States,2005-2009,Children qualities: Obedience,,28.3,71.7
+Argentina,2005-2009,Children qualities: Imagination,,25.2,74.8
+Australia,2005-2009,Children qualities: Imagination,,43.1,56.9
+Brazil,2005-2009,Children qualities: Imagination,,26.7,73.3
+Chile,2005-2009,Children qualities: Imagination,,25.7,74.3
+China,2005-2009,Children qualities: Imagination,,25.3,74.7
+Taiwan,2005-2009,Children qualities: Imagination,,17.5,82.5
+Finland,2005-2009,Children qualities: Imagination,,37.9,62.1
+Germany,2005-2009,Children qualities: Imagination,,39.6,60.4
+Hungary,2005-2009,Children qualities: Imagination,,17.9,82.1
+India,2005-2009,Children qualities: Imagination,,25.4,74.6
+Iran,2005-2009,Children qualities: Imagination,,17.6,82.4
+Iraq,2005-2009,Children qualities: Imagination,,9.1,90.9
+Italy,2005-2009,Children qualities: Imagination,,14.6,85.4
+Japan,2005-2009,Children qualities: Imagination,,30.8,69.2
+Jordan,2005-2009,Children qualities: Imagination,,17.8,82.2
+South Korea,2005-2009,Children qualities: Imagination,,41.1,58.9
+Mexico,2005-2009,Children qualities: Imagination,,24.6,75.4
+Moldova,2005-2009,Children qualities: Imagination,,20.8,79.2
+New Zealand,2005-2009,Children qualities: Imagination,,35.1,64.9
+Norway,2005-2009,Children qualities: Imagination,,54.6,45.4
+Peru,2005-2009,Children qualities: Imagination,,12.8,87.2
+Poland,2005-2009,Children qualities: Imagination,,20.2,79.8
+South Africa,2005-2009,Children qualities: Imagination,,15.6,84.4
+Spain,2005-2009,Children qualities: Imagination,,20.4,79.6
+Sweden,2005-2009,Children qualities: Imagination,,57.1,42.9
+Switzerland,2005-2009,Children qualities: Imagination,,48.1,51.9
+Turkey,2005-2009,Children qualities: Imagination,,22.3,77.7
+Ukraine,2005-2009,Children qualities: Imagination,,28,72
+Egypt,2005-2009,Children qualities: Imagination,,10.5,89.5
+United States,2005-2009,Children qualities: Imagination,,31.7,68.3
+Argentina,2005-2009,Children qualities: Hard work,,57.7,42.3
+Australia,2005-2009,Children qualities: Hard work,,48.6,51.4
+Brazil,2005-2009,Children qualities: Hard work,,61.1,38.9
+Chile,2005-2009,Children qualities: Hard work,,27.2,72.8
+China,2005-2009,Children qualities: Hard work,,83.4,16.6
+Taiwan,2005-2009,Children qualities: Hard work,,54.7,45.3
+Finland,2005-2009,Children qualities: Hard work,,14.7,85.3
+Germany,2005-2009,Children qualities: Hard work,,26,74
+Hungary,2005-2009,Children qualities: Hard work,,41.3,58.7
+India,2005-2009,Children qualities: Hard work,,81.3,18.7
+Iran,2005-2009,Children qualities: Hard work,,68.8,31.2
+Iraq,2005-2009,Children qualities: Hard work,,63.4,36.6
+Italy,2005-2009,Children qualities: Hard work,,39.3,60.7
+Japan,2005-2009,Children qualities: Hard work,,32.4,67.6
+Jordan,2005-2009,Children qualities: Hard work,,42.6,57.4
+South Korea,2005-2009,Children qualities: Hard work,,72.4,27.6
+Mexico,2005-2009,Children qualities: Hard work,,24.3,75.7
+Moldova,2005-2009,Children qualities: Hard work,,79.4,20.6
+New Zealand,2005-2009,Children qualities: Hard work,,41.1,58.9
+Norway,2005-2009,Children qualities: Hard work,,12.7,87.3
+Peru,2005-2009,Children qualities: Hard work,,54.2,45.8
+Poland,2005-2009,Children qualities: Hard work,,21.3,78.7
+South Africa,2005-2009,Children qualities: Hard work,,70.7,29.3
+Spain,2005-2009,Children qualities: Hard work,,62.6,37.4
+Sweden,2005-2009,Children qualities: Hard work,,10.6,89.4
+Switzerland,2005-2009,Children qualities: Hard work,,20.3,79.7
+Turkey,2005-2009,Children qualities: Hard work,,78.8,21.2
+Ukraine,2005-2009,Children qualities: Hard work,,76.8,23.2
+Egypt,2005-2009,Children qualities: Hard work,,57,43
+United States,2005-2009,Children qualities: Hard work,,61.7,38.3
+Argentina,2005-2009,Children qualities: Responsibility,,72.1,27.9
+Australia,2005-2009,Children qualities: Responsibility,,72.3,27.7
+Brazil,2005-2009,Children qualities: Responsibility,,77.9,22.1
+Chile,2005-2009,Children qualities: Responsibility,,82.8,17.2
+China,2005-2009,Children qualities: Responsibility,,67.2,32.8
+Taiwan,2005-2009,Children qualities: Responsibility,,92,8
+Finland,2005-2009,Children qualities: Responsibility,,90.1,9.9
+Germany,2005-2009,Children qualities: Responsibility,,85.1,14.9
+Hungary,2005-2009,Children qualities: Responsibility,,83.3,16.7
+India,2005-2009,Children qualities: Responsibility,,68,32
+Iran,2005-2009,Children qualities: Responsibility,,81.1,18.9
+Iraq,2005-2009,Children qualities: Responsibility,,82.9,17.1
+Italy,2005-2009,Children qualities: Responsibility,,87.1,12.9
+Japan,2005-2009,Children qualities: Responsibility,,90.6,9.4
+Jordan,2005-2009,Children qualities: Responsibility,,59.8,40.2
+South Korea,2005-2009,Children qualities: Responsibility,,90.2,9.8
+Mexico,2005-2009,Children qualities: Responsibility,,77.8,22.2
+Moldova,2005-2009,Children qualities: Responsibility,,69.6,30.4
+New Zealand,2005-2009,Children qualities: Responsibility,,63,37
+Norway,2005-2009,Children qualities: Responsibility,,89.1,10.9
+Peru,2005-2009,Children qualities: Responsibility,,73.3,26.7
+Poland,2005-2009,Children qualities: Responsibility,,81,19
+South Africa,2005-2009,Children qualities: Responsibility,,54.8,45.2
+Spain,2005-2009,Children qualities: Responsibility,,69.7,30.3
+Sweden,2005-2009,Children qualities: Responsibility,,91.4,8.6
+Switzerland,2005-2009,Children qualities: Responsibility,,90.5,9.5
+Turkey,2005-2009,Children qualities: Responsibility,,74.9,25.1
+Ukraine,2005-2009,Children qualities: Responsibility,,65.5,34.5
+Egypt,2005-2009,Children qualities: Responsibility,,77.6,22.4
+United States,2005-2009,Children qualities: Responsibility,,72.2,27.8
+Argentina,2005-2009,Children qualities: Tolerance and respect for other people,,44.6,55.4
+Australia,2005-2009,Children qualities: Tolerance and respect for other people,,38.8,61.2
+Brazil,2005-2009,Children qualities: Tolerance and respect for other people,,56.6,43.4
+Chile,2005-2009,Children qualities: Tolerance and respect for other people,,51.9,48.1
+China,2005-2009,Children qualities: Tolerance and respect for other people,,13.8,86.2
+Taiwan,2005-2009,Children qualities: Tolerance and respect for other people,,16.5,83.5
+Finland,2005-2009,Children qualities: Tolerance and respect for other people,,32.7,67.3
+Germany,2005-2009,Children qualities: Tolerance and respect for other people,,15.8,84.2
+Hungary,2005-2009,Children qualities: Tolerance and respect for other people,,30.8,69.2
+India,2005-2009,Children qualities: Tolerance and respect for other people,,55.9,44.1
+Iran,2005-2009,Children qualities: Tolerance and respect for other people,,32.4,67.6
+Iraq,2005-2009,Children qualities: Tolerance and respect for other people,,73.3,26.7
+Italy,2005-2009,Children qualities: Tolerance and respect for other people,,26.1,73.9
+Japan,2005-2009,Children qualities: Tolerance and respect for other people,,5.1,94.9
+Jordan,2005-2009,Children qualities: Tolerance and respect for other people,,64.9,35.1
+South Korea,2005-2009,Children qualities: Tolerance and respect for other people,,13.5,86.5
+Mexico,2005-2009,Children qualities: Tolerance and respect for other people,,58.3,41.7
+Moldova,2005-2009,Children qualities: Tolerance and respect for other people,,16.8,83.2
+New Zealand,2005-2009,Children qualities: Tolerance and respect for other people,,24.4,75.6
+Norway,2005-2009,Children qualities: Tolerance and respect for other people,,28.7,71.3
+Peru,2005-2009,Children qualities: Tolerance and respect for other people,,53.9,46.1
+Poland,2005-2009,Children qualities: Tolerance and respect for other people,,48.8,51.2
+South Africa,2005-2009,Children qualities: Tolerance and respect for other people,,46.8,53.2
+Spain,2005-2009,Children qualities: Tolerance and respect for other people,,36.9,63.1
+Sweden,2005-2009,Children qualities: Tolerance and respect for other people,,15.6,84.4
+Switzerland,2005-2009,Children qualities: Tolerance and respect for other people,,18.4,81.6
+Turkey,2005-2009,Children qualities: Tolerance and respect for other people,,45.8,54.2
+Ukraine,2005-2009,Children qualities: Tolerance and respect for other people,,49.9,50.1
+Egypt,2005-2009,Children qualities: Tolerance and respect for other people,,67.6,32.4
+United States,2005-2009,Children qualities: Tolerance and respect for other people,,28.3,71.7
+Argentina,2005-2009,Children qualities: Religious faith,,25.6,74.4
+Australia,2005-2009,Children qualities: Religious faith,,21,79
+Brazil,2005-2009,Children qualities: Religious faith,,55.7,44.3
+Chile,2005-2009,Children qualities: Religious faith,,39.7,60.3
+China,2005-2009,Children qualities: Religious faith,,2.4,97.6
+Taiwan,2005-2009,Children qualities: Religious faith,,8.9,91.1
+Finland,2005-2009,Children qualities: Religious faith,,12,88
+Germany,2005-2009,Children qualities: Religious faith,,9.3,90.7
+Hungary,2005-2009,Children qualities: Religious faith,,16.1,83.9
+India,2005-2009,Children qualities: Religious faith,,41.3,58.7
+Iran,2005-2009,Children qualities: Religious faith,,71.4,28.6
+Iraq,2005-2009,Children qualities: Religious faith,,89.9,10.1
+Italy,2005-2009,Children qualities: Religious faith,,34.4,65.6
+Japan,2005-2009,Children qualities: Religious faith,,5.6,94.4
+Jordan,2005-2009,Children qualities: Religious faith,,84,16
+South Korea,2005-2009,Children qualities: Religious faith,,21.5,78.5
+Mexico,2005-2009,Children qualities: Religious faith,,38.8,61.2
+Moldova,2005-2009,Children qualities: Religious faith,,41.6,58.4
+New Zealand,2005-2009,Children qualities: Religious faith,,14.6,85.4
+Norway,2005-2009,Children qualities: Religious faith,,8.6,91.4
+Peru,2005-2009,Children qualities: Religious faith,,45,55
+Poland,2005-2009,Children qualities: Religious faith,,46.7,53.3
+South Africa,2005-2009,Children qualities: Religious faith,,56.2,43.8
+Spain,2005-2009,Children qualities: Religious faith,,11.2,88.8
+Sweden,2005-2009,Children qualities: Religious faith,,6.1,93.9
+Switzerland,2005-2009,Children qualities: Religious faith,,12.6,87.4
+Turkey,2005-2009,Children qualities: Religious faith,,42.2,57.8
+Ukraine,2005-2009,Children qualities: Religious faith,,15.6,84.4
+Egypt,2005-2009,Children qualities: Religious faith,,89.8,10.2
+United States,2005-2009,Children qualities: Religious faith,,50.6,49.4
+Argentina,2000-2004,Children qualities: Religious faith,,43.5,56.5
+Bangladesh,2000-2004,Children qualities: Religious faith,,70.1,29.9
+Canada,2000-2004,Children qualities: Religious faith,,30.8,69.2
+Chile,2000-2004,Children qualities: Religious faith,,40.3,59.7
+India,2000-2004,Children qualities: Religious faith,,46.6,53.4
+Iran,2000-2004,Children qualities: Religious faith,,70.9,29.1
+Iraq,2000-2004,Children qualities: Religious faith,,92,8
+Japan,2000-2004,Children qualities: Religious faith,,6.5,93.5
+South Korea,2000-2004,Children qualities: Religious faith,,21.2,78.8
+Kyrgyzstan,2000-2004,Children qualities: Religious faith,,22.6,77.4
+Mexico,2000-2004,Children qualities: Religious faith,,53.1,46.9
+Nigeria,2000-2004,Children qualities: Religious faith,,67.7,32.3
+Pakistan,2000-2004,Children qualities: Religious faith,,86.2,13.8
+Peru,2000-2004,Children qualities: Religious faith,,55.6,44.4
+Philippines,2000-2004,Children qualities: Religious faith,,59.3,40.7
+Saudi Arabia,2000-2004,Children qualities: Religious faith,,70.6,29.4
+Singapore,2000-2004,Children qualities: Religious faith,,30.1,69.9
+South Africa,2000-2004,Children qualities: Religious faith,,61.4,38.6
+Zimbabwe,2000-2004,Children qualities: Religious faith,,74.1,25.9
+Spain,2000-2004,Children qualities: Religious faith,,20.3,79.7
+Sweden,2000-2004,Children qualities: Religious faith,,4.9,95.1
+Turkey,2000-2004,Children qualities: Religious faith,,44.1,55.9
+Egypt,2000-2004,Children qualities: Religious faith,,87.3,12.7
+United States,2000-2004,Children qualities: Religious faith,,52.1,47.9
+Argentina,2000-2004,Children qualities: Tolerance and respect for other people,,70.4,29.6
+Bangladesh,2000-2004,Children qualities: Tolerance and respect for other people,,70.9,29.1
+Canada,2000-2004,Children qualities: Tolerance and respect for other people,,80.6,19.4
+Chile,2000-2004,Children qualities: Tolerance and respect for other people,,76,24
+India,2000-2004,Children qualities: Tolerance and respect for other people,,72.6,27.4
+Iran,2000-2004,Children qualities: Tolerance and respect for other people,,63.2,36.8
+Iraq,2000-2004,Children qualities: Tolerance and respect for other people,,59,41
+Japan,2000-2004,Children qualities: Tolerance and respect for other people,,77.8,22.2
+South Korea,2000-2004,Children qualities: Tolerance and respect for other people,,71.2,28.8
+Kyrgyzstan,2000-2004,Children qualities: Tolerance and respect for other people,,64.7,35.3
+Mexico,2000-2004,Children qualities: Tolerance and respect for other people,,65.5,34.5
+Nigeria,2000-2004,Children qualities: Tolerance and respect for other people,,70.6,29.4
+Pakistan,2000-2004,Children qualities: Tolerance and respect for other people,,59.1,40.9
+Peru,2000-2004,Children qualities: Tolerance and respect for other people,,53,47
+Philippines,2000-2004,Children qualities: Tolerance and respect for other people,,72.6,27.4
+Saudi Arabia,2000-2004,Children qualities: Tolerance and respect for other people,,60.1,39.9
+Singapore,2000-2004,Children qualities: Tolerance and respect for other people,,56.4,43.6
+South Africa,2000-2004,Children qualities: Tolerance and respect for other people,,69.8,30.2
+Zimbabwe,2000-2004,Children qualities: Tolerance and respect for other people,,74.1,25.9
+Spain,2000-2004,Children qualities: Tolerance and respect for other people,,78.2,21.8
+Sweden,2000-2004,Children qualities: Tolerance and respect for other people,,77,23
+Turkey,2000-2004,Children qualities: Tolerance and respect for other people,,92.5,7.5
+Egypt,2000-2004,Children qualities: Tolerance and respect for other people,,64.3,35.7
+United States,2000-2004,Children qualities: Tolerance and respect for other people,,64.6,35.4
+Argentina,2000-2004,Children qualities: Imagination,,23.5,76.5
+Bangladesh,2000-2004,Children qualities: Imagination,,35.6,64.4
+Canada,2000-2004,Children qualities: Imagination,,33,67
+Chile,2000-2004,Children qualities: Imagination,,35.7,64.3
+India,2000-2004,Children qualities: Imagination,,35.3,64.7
+Iran,2000-2004,Children qualities: Imagination,,28.1,71.9
+Iraq,2000-2004,Children qualities: Imagination,,11,89
+Japan,2000-2004,Children qualities: Imagination,,34.5,65.5
+South Korea,2000-2004,Children qualities: Imagination,,33.4,66.6
+Kyrgyzstan,2000-2004,Children qualities: Imagination,,37.7,62.3
+Mexico,2000-2004,Children qualities: Imagination,,24.4,75.6
+Nigeria,2000-2004,Children qualities: Imagination,,10.9,89.1
+Pakistan,2000-2004,Children qualities: Imagination,,7.4,92.6
+Peru,2000-2004,Children qualities: Imagination,,22.9,77.1
+Philippines,2000-2004,Children qualities: Imagination,,13.6,86.4
+Saudi Arabia,2000-2004,Children qualities: Imagination,,31.1,68.9
+Singapore,2000-2004,Children qualities: Imagination,,13.5,86.5
+South Africa,2000-2004,Children qualities: Imagination,,20,80
+Zimbabwe,2000-2004,Children qualities: Imagination,,11.1,88.9
+Spain,2000-2004,Children qualities: Imagination,,25.2,74.8
+Sweden,2000-2004,Children qualities: Imagination,,40.4,59.6
+Turkey,2000-2004,Children qualities: Imagination,,23,77
+Egypt,2000-2004,Children qualities: Imagination,,15.4,84.6
+United States,2000-2004,Children qualities: Imagination,,30,70
+Argentina,2000-2004,Children qualities: Responsibility,,76.6,23.4
+Bangladesh,2000-2004,Children qualities: Responsibility,,53.3,46.7
+Canada,2000-2004,Children qualities: Responsibility,,77,23
+Chile,2000-2004,Children qualities: Responsibility,,84.2,15.8
+India,2000-2004,Children qualities: Responsibility,,63.6,36.4
+Iran,2000-2004,Children qualities: Responsibility,,67.6,32.4
+Iraq,2000-2004,Children qualities: Responsibility,,72,28
+Japan,2000-2004,Children qualities: Responsibility,,75.7,24.3
+South Korea,2000-2004,Children qualities: Responsibility,,90.7,9.3
+Kyrgyzstan,2000-2004,Children qualities: Responsibility,,92.3,7.7
+Mexico,2000-2004,Children qualities: Responsibility,,78.2,21.8
+Nigeria,2000-2004,Children qualities: Responsibility,,76.8,23.2
+Pakistan,2000-2004,Children qualities: Responsibility,,33.1,66.9
+Peru,2000-2004,Children qualities: Responsibility,,50.2,49.8
+Philippines,2000-2004,Children qualities: Responsibility,,78.9,21.1
+Saudi Arabia,2000-2004,Children qualities: Responsibility,,64.7,35.3
+Singapore,2000-2004,Children qualities: Responsibility,,56.9,43.1
+South Africa,2000-2004,Children qualities: Responsibility,,83.6,16.4
+Zimbabwe,2000-2004,Children qualities: Responsibility,,59.2,40.8
+Spain,2000-2004,Children qualities: Responsibility,,47.6,52.4
+Sweden,2000-2004,Children qualities: Responsibility,,80.1,19.9
+Turkey,2000-2004,Children qualities: Responsibility,,86.9,13.1
+Egypt,2000-2004,Children qualities: Responsibility,,62.7,37.3
+United States,2000-2004,Children qualities: Responsibility,,50.8,49.2
+Argentina,2000-2004,Children qualities: Hard work,,56.8,43.2
+Bangladesh,2000-2004,Children qualities: Hard work,,58.9,41.1
+Canada,2000-2004,Children qualities: Hard work,,52.7,47.3
+Chile,2000-2004,Children qualities: Hard work,,25.9,74.1
+India,2000-2004,Children qualities: Hard work,,85.8,14.2
+Iran,2000-2004,Children qualities: Hard work,,84.9,15.1
+Iraq,2000-2004,Children qualities: Hard work,,62.1,37.9
+Japan,2000-2004,Children qualities: Hard work,,27.1,72.9
+South Korea,2000-2004,Children qualities: Hard work,,71.6,28.4
+Kyrgyzstan,2000-2004,Children qualities: Hard work,,87.3,12.7
+Mexico,2000-2004,Children qualities: Hard work,,30.1,69.9
+Nigeria,2000-2004,Children qualities: Hard work,,80.2,19.8
+Pakistan,2000-2004,Children qualities: Hard work,,56.2,43.8
+Peru,2000-2004,Children qualities: Hard work,,59.3,40.7
+Philippines,2000-2004,Children qualities: Hard work,,74,26
+Saudi Arabia,2000-2004,Children qualities: Hard work,,41.9,58.1
+Singapore,2000-2004,Children qualities: Hard work,,63.7,36.3
+South Africa,2000-2004,Children qualities: Hard work,,75.3,24.7
+Zimbabwe,2000-2004,Children qualities: Hard work,,85.3,14.7
+Spain,2000-2004,Children qualities: Hard work,,68.9,31.1
+Sweden,2000-2004,Children qualities: Hard work,,3.9,96.1
+Turkey,2000-2004,Children qualities: Hard work,,74.3,25.7
+Egypt,2000-2004,Children qualities: Hard work,,38.4,61.6
+United States,2000-2004,Children qualities: Hard work,,60.8,39.2
+Argentina,2000-2004,Children qualities: Independence,,36.3,63.7
+Bangladesh,2000-2004,Children qualities: Independence,,77.8,22.2
+Canada,2000-2004,Children qualities: Independence,,62.3,37.7
+Chile,2000-2004,Children qualities: Independence,,52.7,47.3
+India,2000-2004,Children qualities: Independence,,74.1,25.9
+Iran,2000-2004,Children qualities: Independence,,56.2,43.8
+Iraq,2000-2004,Children qualities: Independence,,53.2,46.8
+Japan,2000-2004,Children qualities: Independence,,28.8,71.2
+South Korea,2000-2004,Children qualities: Independence,,81.8,18.2
+Kyrgyzstan,2000-2004,Children qualities: Independence,,77.3,22.7
+Mexico,2000-2004,Children qualities: Independence,,54.8,45.2
+Nigeria,2000-2004,Children qualities: Independence,,42.3,57.7
+Pakistan,2000-2004,Children qualities: Independence,,26,74
+Peru,2000-2004,Children qualities: Independence,,12.6,87.4
+Philippines,2000-2004,Children qualities: Independence,,38.6,61.4
+Saudi Arabia,2000-2004,Children qualities: Independence,,65.7,34.3
+Singapore,2000-2004,Children qualities: Independence,,70,30
+South Africa,2000-2004,Children qualities: Independence,,74.7,25.3
+Zimbabwe,2000-2004,Children qualities: Independence,,62.5,37.5
+Spain,2000-2004,Children qualities: Independence,,26.2,73.8
+Sweden,2000-2004,Children qualities: Independence,,44.4,55.6
+Turkey,2000-2004,Children qualities: Independence,,68.8,31.2
+Egypt,2000-2004,Children qualities: Independence,,15.7,84.3
+United States,2000-2004,Children qualities: Independence,,72.6,27.4
+,,,,61.1,38.9
